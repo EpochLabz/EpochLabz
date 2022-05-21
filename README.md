@@ -1,3 +1,3 @@
-Epoch Labz │CNFTs
+Epoch Labz │CNFTs <br>
 Cardano blockchain development & technology research lab #cnfts #cnft #nfts #nft
 Website coming soon...
