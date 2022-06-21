@@ -1,3 +1,2 @@
 Epoch Labz │CNFTs <br>
-Cardano blockchain development & technology research lab #cnfts #cnft #nfts #nft
-Website coming soon...
+Epoch Labz is a maximum security Cardano blockchain research & development lab, specializing in the production & distribution of CNFTs, to fortify the community
